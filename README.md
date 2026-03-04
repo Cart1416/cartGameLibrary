@@ -1,3 +1,4 @@
 # cartGameLibrary
 Library I use to make 2D games in HTML5 + JS  
-cartGameLibrary.js is the latest, and /versions has previous versions
+cartGameLibrary.js is the latest, and /versions has previous versions  
+Documentation: todo (figure it out yourself)
